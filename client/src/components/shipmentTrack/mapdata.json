@@ -1,0 +1,22 @@
+[
+  {
+    "description": "Source",
+    "name": "Bangalore",
+    "geometry": [12.9716, 77.5946]
+  },
+  {
+    "description": "Leg",
+    "name": "Hyderebad",
+    "geometry": [17.385044, 78.486671]
+  },
+  {
+    "description": "Current Location",
+    "name": "Current Location",
+    "geometry": [13.08268, 80.270721]
+  },
+  {
+    "description": "Destination",
+    "name": "Mumbai",
+    "geometry": [19.075983, 72.877655]
+  }
+]
